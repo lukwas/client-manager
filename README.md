@@ -1,0 +1,1 @@
+kilka brakujacych rzeczy opisanych jako TODO w kodzie odłożyłem na później skorygowanie nazwy endpointów rest ale nei zdązyłem 
